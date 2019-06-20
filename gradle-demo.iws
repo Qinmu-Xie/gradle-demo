@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="f5c4110e-5425-4ac3-82ec-ab1086bb8885" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle-demo.ipr" beforeDir="false" afterPath="$PROJECT_DIR$/gradle-demo.ipr" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle-demo.iws" beforeDir="false" afterPath="$PROJECT_DIR$/gradle-demo.iws" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -98,8 +96,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="394">
-              <caret line="91" column="18" lean-forward="true" selection-start-line="91" selection-start-column="18" selection-end-line="91" selection-end-column="18" />
+            <state relative-caret-position="261">
+              <caret line="48" column="10" lean-forward="true" selection-start-line="48" selection-start-column="10" selection-end-line="48" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -115,6 +113,9 @@
     </option>
   </component>
   <component name="FindInProjectRecents">
+    <findStrings>
+      <find>ipr</find>
+    </findStrings>
     <replaceStrings>
       <replace />
     </replaceStrings>
@@ -358,7 +359,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1561030511610</updated>
-      <workItem from="1561030511804" duration="2722000" />
+      <workItem from="1561030511804" duration="2892000" />
     </task>
     <servers />
   </component>
@@ -383,7 +384,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2722000" />
+    <option name="totallyTimeSpent" value="2892000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="815" extended-state="0" />
@@ -473,8 +474,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="394">
-          <caret line="91" column="18" lean-forward="true" selection-start-line="91" selection-start-column="18" selection-end-line="91" selection-end-column="18" />
+        <state relative-caret-position="261">
+          <caret line="48" column="10" lean-forward="true" selection-start-line="48" selection-start-column="10" selection-end-line="48" selection-end-column="10" />
         </state>
       </provider>
     </entry>
